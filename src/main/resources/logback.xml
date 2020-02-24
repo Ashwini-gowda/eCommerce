@@ -88,7 +88,7 @@
     <appender-ref ref="NOP" />
   </logger>
 
-  <logger name="com.mycom.product" level="DEBUG" additivity="false">
+  <logger name="com.ecommerce.product" level="DEBUG" additivity="false">
     <appender-ref ref="FILE" />
     <appender-ref ref="STDOUT" />
   </logger>
